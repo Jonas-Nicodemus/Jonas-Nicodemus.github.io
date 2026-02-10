@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="11.859192mm"
+   height="8.553031mm"
+   viewBox="0 0 11.859192 8.553031"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1"
+     transform="translate(-366.44691,963.00976)">
+    <g
+       id="g2">
+      <path
+	 fill="currentColor"
+         d="m 372.19496,-963.00508 -1.09687,6.22588 q -0.20238,1.13976 -0.80888,1.73417 -0.60666,0.58828 -1.581,0.58828 -0.65567,0 -1.17039,-0.24507 -0.50863,-0.25139 -0.80275,-0.68635 -0.28815,-0.43507 -0.28815,-0.99267 0,-0.10436 0.008,-0.19606 0.0119,-0.0921 0.0316,-0.15336 h 0.91916 q -0.008,0.0858 -0.008,0.1838 0,0.51472 0.35535,0.84564 0.36167,0.32491 0.92528,0.32491 0.39211,0 0.68631,-0.16562 0.29408,-0.17155 0.48412,-0.50251 0.19606,-0.33716 0.28183,-0.82725 l 1.07849,-6.13395 z"
+         id="text1"
+         style="font-size:3.175px;font-family:'.SF Compact';-inkscape-font-specification:'.SF Compact';stroke-width:1.04581"
+         aria-label="J" />
+      <path
+	 fill="currentColor"
+         d="m 376.82928,-954.63913 h -0.97434 c -1.2964,-2.78957 -1.84306,-4.23527 -3.1301,-7.02919 l 0.23163,-1.34143 3.10069,6.75286 h 0.0613 l 1.20106,-6.75286 h 0.98659 z"
+         id="text2"
+         style="font-size:3.175px;font-family:'.SF Compact';-inkscape-font-specification:'.SF Compact';stroke-width:1.04581"
+         aria-label="N" />
+    </g>
+  </g>
+</svg>
