@@ -50,7 +50,7 @@ links:
   - type: code
     url: https://github.com/Jonas-Nicodemus/PINNs-based-MPC
   - type: preprint
-    url: https://arxiv.org/abs/2204.13628
+    url: https://arxiv.org/abs/2109.10793
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
