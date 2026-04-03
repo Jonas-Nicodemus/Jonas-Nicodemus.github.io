@@ -46,10 +46,10 @@ education:
     \n
     Dissertation title: \"Applied optimization techniques for port-Hamiltonian systems\"
     "
-    # button:
-    #   text: "Download dissertation"
-    #   url: "/JNicodemus-thesis.pdf"
-    #   icon: "hero/arrow-down-tray"
+    button:
+      text: "Download dissertation"
+      url: "https://doi.org/10.18419/opus-17910"
+      icon: "hero/arrow-down-tray"
   - degree: "M.Sc. Engineering Cybernetics"
     institution: "University of Stuttgart"
     grade: 1.9
@@ -67,12 +67,19 @@ experience:
   - role: "PostDoc"
     org: "Karlsruhe Institute of Technology"
     start: "2026-01"
+    summary: "Researcher in the field of surrogate modeling with guarantees."
   - role: "Research Associate"
-    org: "University of Stuttgart, Institute of Engineering and Computational Mechanics"
-    start: "2015-04"
-    end: "2021-05"
-    summary: "Tutor in Technical Mechanics I-III and Implementation of a Machine Learning driven Model Order
-      Reduction framework\n"
+    org: "Stuttgart Center for Simulation Science, University of Stuttgart"
+    start: "2014-07"
+    end: "2025-12"
+    summary: "
+      Researcher in the field of surrogate modeling with guarantees:\n
+
+      • Developed surrogate modeling methods with guarantees for dynamical systems\n
+
+      • Applied model reduction and MPC techniques to robotic and control problems\n
+
+      • Published in three SIAM journals and one IFAC conference proceedings"
   - role: "Intern/Working Student"
     org: "Bosch SoftTec GmbH"
     start: "2018-10"
@@ -82,7 +89,14 @@ experience:
     org: "Robert Bosch Start-up GmbH"
     start: "2014-11"
     end: "2016-11"
-    summary: "Programming of tools for the automation of forklifts (C++, C) and laboratory work.\n"
+    summary: "Robotics Engineer for the automation of forklifts on real robotic platforms:\n
+
+      • Developed and deployed algorithms in C/C++ using ROS\n
+
+      • Conducted laboratory experiments and validation on real robotic systems\n
+
+      • Supported integration, testing, and debugging of autonomy components
+        "
 # skills:
 #   - name: "Technical Skills"
 #     items:
