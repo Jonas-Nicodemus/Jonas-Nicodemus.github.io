@@ -55,6 +55,7 @@ education:
     grade: 1.9
     summary: "Master thesis title: \"Application of Physics Informed Neural Networks for the Approximation of
     Differential Equations in the Field of Rigid Body Dynamics\""
+    thesisgrade: 1.0
     start: "2018-05"
     end: "2021-05"
   - degree: "B.Sc. Engineering Cybernetics"
@@ -72,8 +73,7 @@ experience:
     org: "Stuttgart Center for Simulation Science, University of Stuttgart"
     start: "2014-07"
     end: "2025-12"
-    summary: "
-      Researcher in the field of surrogate modeling with guarantees:\n
+    summary: "Researcher in the field of surrogate modeling with guarantees:\n
 
       • Developed surrogate modeling methods with guarantees for dynamical systems\n
 
@@ -84,7 +84,14 @@ experience:
     org: "Bosch SoftTec GmbH"
     start: "2018-10"
     end: "2020-02"
-    summary: "Software Engineer in the field of Map Matching, Microservices and Cloud Development.\n"
+    summary: "Software Engineer in the field of Map Matching, Microservices and Cloud Development:\n
+      
+      • Developed and deployed microservices in Java using Spring Boot to AWS/Azure cloud infrastructure\n
+
+      • Contributed to cloud infrastructure setup and CI/CD pipelines\n
+
+      • Built a full-stack web application using Java Spring Boot (backend) and Angular with TypeScript (frontend) to test and visualize map-matching results
+      "
   - role: "Working Student"
     org: "Robert Bosch Start-up GmbH"
     start: "2014-11"
